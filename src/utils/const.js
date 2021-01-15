@@ -1,6 +1,7 @@
 // const
 const MAPBOX_TOKEN =
-  'pk.eyJ1IjoieWlob25nMDYxOCIsImEiOiJja2J3M28xbG4wYzl0MzJxZm0ya2Fua2p2In0.PNKfkeQwYuyGOTT_x9BJ4Q';
+  // 'pk.eyJ1IjoieWlob25nMDYxOCIsImEiOiJja2J3M28xbG4wYzl0MzJxZm0ya2Fua2p2In0.PNKfkeQwYuyGOTT_x9BJ4Q';
+  'pk.eyJ1Ijoic2t5bGVyMTAxNSIsImEiOiJja2p4enUwcGQwOTR1MnZxdTY0MzhzMXlxIn0.HIBM800_Jji_mC9m9re0Uw';
 const MUNICIPALITY_CITIES_ARR = [
   '北京市',
   '上海市',
