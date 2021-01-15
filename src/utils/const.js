@@ -46,8 +46,10 @@ export {
 };
 
 export const AVATAR =
+  // change user picture 
   require('./1.jpeg'); // Temp avatar
 export const NAVS = [
+  // customize 
   { text: 'Blog', link: 'https://www.google.com' },
   { text: 'About', link: 'https://www,google.com' },
 ];
