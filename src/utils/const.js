@@ -46,7 +46,7 @@ export {
 };
 
 export const AVATAR =
-  './1.jpeg'; // Temp avatar
+  require('../1.jpeg'); // Temp avatar
 export const NAVS = [
   { text: 'Blog', link: 'https://www.google.com' },
   { text: 'About', link: 'https://www,google.com' },
